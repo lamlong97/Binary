@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Binary</string>
+    <string name="inputHint">Input your text here</string>
+    <string name="txtResult">Result</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="input_your_binary_here">Input your binary here</string>
+    <string name="your_binary">Your binary:</string>
+    <string name="send_using">Send using</string>
+    <string name="text_copied">Text Copied</string>
+    <string name="nothing_to_copy">Nothing to copy</string>
+    <string name="error">Error</string>
+    <string name="binary_text">Binary Text</string>
+    <string name="developed_by_ltlstudio">Developed by LTLStudio</string>
+    <string name="email">Email: lamthanhlong70@gmail.com</string>
+    <string name="share_by">Share By</string>
+    <string name="logo">Logo</string>
+</resources>
